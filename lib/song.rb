@@ -22,6 +22,8 @@ class Song
 
         @artist == nil ? nil : self.artist.name 
 
+        # binding.pry 
+
 
     end
 
